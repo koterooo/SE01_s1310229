@@ -1,6 +1,6 @@
 # Project: Fancy Restaurant
-**Student id:** s1310229
-**Name:** Kotaro Taniguchi
+* **Student id:** s1310229
+* **Name:** Kotaro Taniguchi
 
 ## Project Outline
 A web application that allows for flexible restaurant reservations. 
